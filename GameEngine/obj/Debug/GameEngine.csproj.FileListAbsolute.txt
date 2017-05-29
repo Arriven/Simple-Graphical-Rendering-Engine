@@ -1,5 +1,0 @@
-C:\Users\bogda\Downloads\GameEngine-master\GameEngine-master\GameEngine\bin\Debug\GameEngine.dll
-C:\Users\bogda\Downloads\GameEngine-master\GameEngine-master\GameEngine\bin\Debug\GameEngine.pdb
-C:\Users\bogda\Downloads\GameEngine-master\GameEngine-master\GameEngine\obj\Debug\GameEngine.csprojResolveAssemblyReference.cache
-C:\Users\bogda\Downloads\GameEngine-master\GameEngine-master\GameEngine\obj\Debug\GameEngine.dll
-C:\Users\bogda\Downloads\GameEngine-master\GameEngine-master\GameEngine\obj\Debug\GameEngine.pdb
